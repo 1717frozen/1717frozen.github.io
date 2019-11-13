@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+  <title>冻海上的船</title>
+  <icon>https://blog.frozensea.xyz/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.frozensea.xyz/"/>
+  <updated>2019-11-12T06:12:46.788Z</updated>
+  <id>https://blog.frozensea.xyz/</id>
+  
+  <author>
+    <name>冻海</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="https://blog.frozensea.xyz/2019/11/09/Hello%20World/"/>
+    <id>https://blog.frozensea.xyz/2019/11/09/Hello%20World/</id>
+    <published>2019-11-09T12:12:44.000Z</published>
+    <updated>2019-11-12T06:12:46.788Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;总是想要把事情做到让自己满意，可是只要过了满意一点点就再也不想更进一步了。&lt;/p&gt;
+&lt;p&gt;可是不管怎么样，还是要说Hello
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="杂谈" scheme="https://blog.frozensea.xyz/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>爱情枪</title>
+    <link href="https://blog.frozensea.xyz/2019/06/28/love-pistol/"/>
+    <id>https://blog.frozensea.xyz/2019/06/28/love-pistol/</id>
+    <published>2019-06-28T08:53:28.000Z</published>
+    <updated>2019-11-12T06:12:45.025Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;我有一把爱情枪，但是我无法获得爱情。&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="小说" scheme="https://blog.frozensea.xyz/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浅谈基因技术与人类社会变迁史</title>
+    <link href="https://blog.frozensea.xyz/2019/06/20/botanic_human/"/>
+    <id>https://blog.frozensea.xyz/2019/06/20/botanic_human/</id>
+    <published>2019-06-20T13:41:52.000Z</published>
+    <updated>2019-11-12T06:15:41.938Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;是《树人》小说的一个背景介绍，写了故事发生之前（之间）基因编辑技术对人类社会的几次大的影响。&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="小说" scheme="https://blog.frozensea.xyz/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简化和层次</title>
+    <link href="https://blog.frozensea.xyz/2019/03/13/jian-hua/"/>
+    <id>https://blog.frozensea.xyz/2019/03/13/jian-hua/</id>
+    <published>2019-03-13T06:45:38.000Z</published>
+    <updated>2019-11-12T06:16:05.517Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;说一说怎样去体会被简化的情感。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="杂谈" scheme="https://blog.frozensea.xyz/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>对训狗核心概念的研究--负反馈强化</title>
+    <link href="https://blog.frozensea.xyz/2018/06/03/dog_training/"/>
+    <id>https://blog.frozensea.xyz/2018/06/03/dog_training/</id>
+    <published>2018-06-02T14:47:28.000Z</published>
+    <updated>2019-11-12T06:20:58.979Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;爱的教育是行不通的，特别是对于聪明的狗。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;它们心里想的是，你让我坐/停/过来/定点上厕所/不要叫，我为什么要听你的？&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="养狗" scheme="https://blog.frozensea.xyz/tags/%E5%85%BB%E7%8B%97/"/>
+    
+  </entry>
+  
+</feed>
